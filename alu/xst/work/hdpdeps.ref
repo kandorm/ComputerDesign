@@ -1,0 +1,7 @@
+V3 3
+FL E:/Class/5/computer_design/FPGA/alu/alu.vhd 2016/10/16.00:33:46 P.20131013
+EN work/alu 1476549230 FL E:/Class/5/computer_design/FPGA/alu/alu.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_SIGNED 1381692178 PB ieee/NUMERIC_STD 1381692181
+AR work/alu/Behavioral 1476549231 \
+      FL E:/Class/5/computer_design/FPGA/alu/alu.vhd EN work/alu 1476549230

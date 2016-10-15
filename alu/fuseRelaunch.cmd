@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/Class/5/computer_design/FPGA/alu/test_isim_beh.exe" -prj "E:/Class/5/computer_design/FPGA/alu/test_beh.prj" "work.test" 
